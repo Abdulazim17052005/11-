@@ -1,0 +1,72 @@
+*{
+       margin: 0;
+       padding: 0; 
+    font-family: sans-serif;
+
+}
+body{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/fon_gradient_volna_207449_3840x2400.jpg);
+    background-size: cover;
+   
+}
+.menu{
+  
+    border: 1px solid black;
+    background-image: url(https://st2.depositphotos.com/4317479/6489/i/600/depositphotos_64896855-stock-photo-carpathian-misty-valley.jpg);
+    background-size: cover;
+    background-position: 0px -20px;
+
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    transition: 1s;
+
+}
+a:hover{
+color: antiquewhite;
+
+}
+li{
+    list-style-type: none;
+}
+
+.h1-.li{
+    display: inline-block;
+}
+
+menu --.logo{
+display: inline-block;
+
+}
+
+.logo li{
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu nav{
+    display: inline-block;
+}
+.logo nav ul{
+    margin-left: 300px;
+    padding-bottom: 20px;
+    
+}
+.logo nav ul li a{
+    margin-left: 80px;
+}
+ul{
+    margin-bottom: 0;
+}
+h1{
+    margin-left:10px ;
+    margin-top: 10px;
+}
